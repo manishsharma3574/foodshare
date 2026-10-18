@@ -98,3 +98,9 @@ GitHub: [FoodShare Repository](https://github.com/manishsharma3574/foodshare)
 ---
 
 **FoodShare — Share More, Waste Less.** 🌱
+
+## 🌐 Live Demo
+
+🚀 **Live Website:** https://foodshare-gray.vercel.app/
+
+[Visit FoodShare](https://foodshare-gray.vercel.app/)
