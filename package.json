@@ -1,0 +1,14 @@
+{
+  "name": "foodshare",
+  "private": true,
+  "scripts": {
+    "install:client": "npm install --prefix client",
+    "dev": "npm --prefix client run dev -- --host 0.0.0.0",
+    "build": "npm --prefix client run build",
+    "preview": "npm --prefix client run preview -- --host 0.0.0.0",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "react-router-dom": "^7.18.1"
+  }
+}
